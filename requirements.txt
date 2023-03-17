@@ -1,0 +1,13 @@
+pandas
+tensorflow
+tensorflow-datasets
+tensorboard
+shap
+jupyter
+matplotlib
+numpy
+plotly
+scikit-learn
+keras
+keras-tuner
+beepy
